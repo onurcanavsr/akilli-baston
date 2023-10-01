@@ -1,0 +1,6 @@
+kullanılan malzemeler :
+1 adet dc motor 
+1 adet arduino kart
+1 adet buzzr 
+1 ader HC-SR 04 sensör
+bastonun boyutuna yetecek kadar kablo 
